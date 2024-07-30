@@ -1,12 +1,9 @@
-## Hi there 👋
+## Hi from opsZero! 👋
 
-<!--
+<a href="https://www.opszero.com"><img src="https://media.opszero.com/insights/brands/logo/2023/04/26/02/04/12/opsZero_logo.svg" width="300px"/></a>
 
-**Here are some ideas to get you started:**
+[opsZero provides support](https://www.opszero.com/devops) for our modules including:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+-   Slack & Email support
+-   One on One Video Calls
+-   Implementation Guidance
