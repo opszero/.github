@@ -22,6 +22,8 @@ We do this with a high-touch support model where you:
 
 Please [schedule a call](https://calendly.com/opszero-llc/discovery) if you need support.
 
+<br/><br/>
+
 <div style="display: block">
   <img src="https://opszero.com/wp-content/uploads/2024/07/aws-advanced.png" width="150px" />
   <img src="https://opszero.com/wp-content/uploads/2024/07/AWS-public-sector.png" width="150px" />
