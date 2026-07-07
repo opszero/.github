@@ -1,4 +1,4 @@
-# 🚀 Built by opsZero!
+# 🚀 opsZero: Your Cloud + AI Team!
 
 <a href="https://opszero.com"><img src="https://opszero.com/img/common/opsZero-Logo-Large.webp" width="300px"/></a>
 
